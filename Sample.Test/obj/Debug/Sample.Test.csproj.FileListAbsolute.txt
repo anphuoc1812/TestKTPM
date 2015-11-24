@@ -1,0 +1,9 @@
+F:\Code\Sample.Test\Sample.Test\bin\Debug\Sample.Test.dll
+F:\Code\Sample.Test\Sample.Test\bin\Debug\Sample.Test.pdb
+F:\Code\Sample.Test\Sample.Test\bin\Debug\Calculator.exe
+F:\Code\Sample.Test\Sample.Test\bin\Debug\nunit.framework.dll
+F:\Code\Sample.Test\Sample.Test\bin\Debug\Calculator.pdb
+F:\Code\Sample.Test\Sample.Test\bin\Debug\nunit.framework.xml
+F:\Code\Sample.Test\Sample.Test\obj\Debug\Sample.Test.csprojResolveAssemblyReference.cache
+F:\Code\Sample.Test\Sample.Test\obj\Debug\Sample.Test.dll
+F:\Code\Sample.Test\Sample.Test\obj\Debug\Sample.Test.pdb
