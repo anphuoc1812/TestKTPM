@@ -10,7 +10,7 @@ namespace Calculator
     {
         public int Cong(int a, int b)
         {
-            return a + b + 1;
+            return a + b;
         }
 
         public int Nhan(int a, int b)
