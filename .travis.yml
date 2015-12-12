@@ -4,6 +4,8 @@ notifications:
 email:
 recipients:
 - khanhduyluu@gmail.com
+- ndphuocan.1812@gmail.com
+- paladin_1812@yahoo.com.vn
 on_success: [always|never|change] # default: change
 on_failure: [always|never|change] # default: always
 install:
