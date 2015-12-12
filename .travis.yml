@@ -12,3 +12,6 @@ notifications:
     - huynhhuyphong196@gmail.com
 	- ndphuocan.18@gmail.com
 	- khanhduyluu@gmail.com
+  slack:
+	on_success: always
+	on_failure: always
