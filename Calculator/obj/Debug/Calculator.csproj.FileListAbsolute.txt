@@ -4,3 +4,9 @@ F:\Code\Sample.Test\Calculator\bin\Debug\Calculator.pdb
 F:\Code\Sample.Test\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 F:\Code\Sample.Test\Calculator\obj\Debug\Calculator.exe
 F:\Code\Sample.Test\Calculator\obj\Debug\Calculator.pdb
+F:\Code\Test234\TestKTPM\Calculator\bin\Debug\Calculator.exe.config
+F:\Code\Test234\TestKTPM\Calculator\bin\Debug\Calculator.exe
+F:\Code\Test234\TestKTPM\Calculator\bin\Debug\Calculator.pdb
+F:\Code\Test234\TestKTPM\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Code\Test234\TestKTPM\Calculator\obj\Debug\Calculator.exe
+F:\Code\Test234\TestKTPM\Calculator\obj\Debug\Calculator.pdb
