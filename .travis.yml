@@ -1,5 +1,9 @@
 language: csharp
 solution: Sample.Test.sln
+notifications:
+email:
+- tuankiet234@gmail.com
+- khanhduyluu@gmail.com
 install:
   - nuget restore Sample.Test.sln
   - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
