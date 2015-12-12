@@ -1,13 +1,5 @@
 language: csharp
 solution: Sample.Test.sln
-notifications:
-  email:
-    recipients:
-    - tuankiet234@gmail.com
-    - khanhduyluu@gmail.com
-    - ndphuocan.1812@gmail.com
-  on_success: [always|never|change] # default: change
-  on_failure: [always|never|change] # default: always
 install:
   - nuget restore Sample.Test.sln
   - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
