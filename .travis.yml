@@ -6,7 +6,3 @@ install:
 script:
   - xbuild /p:Configuration=Release Sample.Test.sln
   - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./Sample.Test/bin/Release/Sample.Test.dll
-notifications:
-  slack:
-	on_success: always
-	on_failure: always
